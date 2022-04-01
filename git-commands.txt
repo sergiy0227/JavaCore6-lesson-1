@@ -3,5 +3,5 @@ git status -
 git add <file> - 
 git commit -m "commit msg" - 
 git log - 
-git checkout <commit hash> - 
-git checkout <branch> - 
+git checkout <commot hash> - 
+git checkout <branch> -
