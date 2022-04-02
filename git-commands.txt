@@ -5,3 +5,6 @@ git commit -m "commit msg" -
 git log - 
 git checkout <commot hash> - 
 git checkout <branch> -
+git remote add origin <repository path> - 
+git pull origin <master> - 
+git push origin <branch> - 
